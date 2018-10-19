@@ -2198,6 +2198,34 @@
 				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>ALC270</string>
+					<key>CodecID</key>
+					<integer>283902576</integer>
+					<key>Comment</key>
+					<string>ALC270 for Asus K46CB Laptop</string>
+					<key>ConfigData</key>
+					<data>
+					AUccEAFHHQABRx4XAUcfkAGXHDABlx0AAZce
+					oAGXH5ABpxwgAacdEAGnHiEBpx8AAdccQAHX
+					HYAB1x4FAdcfBAFHDAI=
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>40</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AUcMAg==
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>CodecID</key>
 					<integer>283902569</integer>
